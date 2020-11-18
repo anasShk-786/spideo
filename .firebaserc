@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "spideo-36ed9": {
+      "hosting": {
+        "angular-crud": [
+          "spideo-36ed9"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular9crud-cb1de"
+  }
+}
